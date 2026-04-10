@@ -1,7 +1,7 @@
-# STARTER-jpa03
+# jpa03-Brian-W-Li
 
 
-Running at: [https://brian-w-li.dokku-03.cs.ucsb.edu](https://jpa03-brian-w-li.dokku-03.cs.ucsb.edu/)
+Running at: https://jpa03-brian-w-li.dokku-03.cs.ucsb.edu/
 
 # Configuring GitHub Pages for the documentation
 
